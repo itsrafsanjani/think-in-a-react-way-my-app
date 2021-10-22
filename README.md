@@ -29,6 +29,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 > lesson 07
 
 - State and Lifecycle
+- State is "data that changes"
+- State changes inside a component
+- Props changes outside of the component
+- Unidirectional data flow (top down)
 
 ## Available Scripts
 
