@@ -4,7 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Lesson Notes
 > lesson 04
-- 
+- SKIP_PREFLIGHT_CHECK=tue
+- eslint conflict
+
+> lesson 05
+- JSX
+- DOM node
+- React Object
+- Interpolation
+- Values are Escaped
+- Platform Agnostic
+- React Elements are Immutable
+- Stateful component
 
 ## Available Scripts
 
