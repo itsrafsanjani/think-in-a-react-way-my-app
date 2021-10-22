@@ -3,11 +3,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Lesson Notes
+
 > lesson 04
-- SKIP_PREFLIGHT_CHECK=tue
+
+- SKIP_PREFLIGHT_CHECK=true
 - eslint conflict
 
 > lesson 05
+
 - JSX
 - DOM node
 - React Object
@@ -16,6 +19,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Platform Agnostic
 - React Elements are Immutable
 - Stateful component
+
+> lesson 06
+
+- Props
+- Class Component
+- this.props.someData
 
 ## Available Scripts
 

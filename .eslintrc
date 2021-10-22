@@ -30,7 +30,9 @@
       {
         "extensions": [".js", ".jsx"]
       }
-    ]
+    ],
+    "react/prefer-stateless-function": [0, { "ignorePureComponents": false }],
+    "react/destructuring-assignment": [0, "never"]
   },
   "plugins": ["prettier", "react", "react-hooks"]
 }
