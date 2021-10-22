@@ -26,6 +26,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Class Component
 - this.props.someData
 
+> lesson 07
+
+- State and Lifecycle
+
 ## Available Scripts
 
 In the project directory, you can run:
