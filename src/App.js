@@ -1,9 +1,8 @@
-import Clock from "./components/Clock";
+import ClockList from "./components/ClockList";
 
 function App() {
-  return (
-    <Clock locale="bn-BD" />
-  );
+  const quantities = [1, 2, 3];
+  return <ClockList quantities={quantities} />;
 }
 
 export default App;

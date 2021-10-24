@@ -41,6 +41,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - this confusion
 - control re-render
 
+> lesson 09
+
+- conditional JSX
+- turnery
+- list and keys
+- key should be unique and don't use array index
+
 ## Available Scripts
 
 In the project directory, you can run:
