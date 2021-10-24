@@ -34,6 +34,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Props changes outside of the component
 - Unidirectional data flow (top down)
 
+> lesson 08
+
+- preventDefault
+- Destructuring
+- this confusion
+- control re-render
+
 ## Available Scripts
 
 In the project directory, you can run:
