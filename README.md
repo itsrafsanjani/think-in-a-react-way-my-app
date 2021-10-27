@@ -48,6 +48,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - list and keys
 - key should be unique and don't use array index
 
+> lesson 10
+
+- form
+- uncontrolled (DOM)
+- controlled (Virtual DOM)
+- ES6 computed properties
+
 ## Available Scripts
 
 In the project directory, you can run:
